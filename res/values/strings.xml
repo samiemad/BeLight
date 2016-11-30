@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeLight</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="yourBalance">Your Balance</string>
+    <string name="login_to_belight"><i><u>BeLight</u></i>.</string>
+    <string-array 
+        name="navigation_drawer_titles">
+        <item>Personal</item>
+        <item>Shopping</item>
+        <item>My Account</item>
+        <item>Settings</item>
+        <item>About</item>
+        <item>Contact us</item>
+    </string-array>
+
+</resources>
